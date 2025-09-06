@@ -6,7 +6,7 @@ public class DBConnection {
 
     private static final String url="jdbc:mysql://localhost/Banking_Management_System";
     private static final String user ="root";
-    private static final String pass ="Lakshmivasan74@";
+    private static final String pass ="*************";
 
 
     public static Connection getConnection() {
